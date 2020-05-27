@@ -1,0 +1,16 @@
+
+* {box-sizing: border-box;
+}
+
+#main{
+  width: 960px;
+  padding: 10px;
+  background-color: yellow;
+  border: solid blue 2px;
+}
+
+.picBox{
+  width: 236px;
+  background-color: red;
+  border: solid white 2px;
+}
